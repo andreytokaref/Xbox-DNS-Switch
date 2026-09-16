@@ -6,8 +6,8 @@
 Откройте командную строку (можно без прав администратора).
 
 Введите команду:
-netsh interface show interface
 
+`netsh interface show interface`
 Посмотрите столбец "Имя интерфейса" для вашего активного подключения (будет состояние "Подключен") -> например, Беспроводная сеть, Wi-Fi, Ethernet, Local Area Connection).
 
 ![скрин с cmd](images/image1.png)
